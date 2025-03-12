@@ -23,7 +23,7 @@ pcap_file = f"captures/capture_{timestamp}.pcap"
 
 # Display ASCII Art
 def display_banner():
-    ascii_banner = pyfiglet.figlet_format("Packet Sniffer")
+    ascii_banner = pyfiglet.figlet_format("Network Sniffer")
     console.print(f"[bold cyan]{ascii_banner}[/bold cyan]")
     console.print("[bold yellow]🔥 Advanced Network Packet Analyzer 🔥[/bold yellow]\n")
 
