@@ -1,7 +1,7 @@
 # 🚀 Advanced Network Packet Sniffer
 
 An advanced, user-friendly **Network Packet Sniffer** built with **Python**. This tool captures, analyzes, and logs network packets, displaying key details such as **source/destination IPs, protocols, and packet size**. Each capture session is saved as a **.pcap file**, which can be analyzed using tools like **Wireshark**. 
-![Uploading Screenshot 2025-03-12 122621.png…]()
+![Screenshot 2025-03-12 122621](https://github.com/user-attachments/assets/5ba13765-bd52-4325-9fdd-85b915a4acbe)
 
 
 ---
