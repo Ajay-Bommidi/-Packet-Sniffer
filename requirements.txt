@@ -1,0 +1,6 @@
+scapy 
+colorama 
+tabulate 
+rich 
+psutil
+pyfiglet
