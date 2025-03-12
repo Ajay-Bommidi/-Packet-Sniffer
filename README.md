@@ -1,7 +1,7 @@
 # 🚀 Advanced Network Packet Sniffer
 
 An advanced, user-friendly **Network Packet Sniffer** built with **Python**. This tool captures, analyzes, and logs network packets, displaying key details such as **source/destination IPs, protocols, and packet size**. Each capture session is saved as a **.pcap file**, which can be analyzed using tools like **Wireshark**. 
-![Screenshot 2025-03-12 122621](https://github.com/user-attachments/assets/c6134a93-f00e-4674-ac2f-dc7b37e5c60e)
+![Uploading Screenshot 2025-03-12 122621.png…]()
 
 
 ---
@@ -25,13 +25,12 @@ pip install scapy colorama tabulate rich psutil pyfiglet
 
 ### **2️⃣ Clone the Repository**
 ```sh
-git clone https://github.com/yourusername/network-packet-sniffer.git
-cd network-packet-sniffer
+https://github.com/Ajay-Bommidi/PRODIGY_CS_05.git
 ```
 
 ### **3️⃣ Run the Sniffer**
 ```sh
-python packet_sniffer.py
+python network-sniffer.py
 ```
 
 ---
