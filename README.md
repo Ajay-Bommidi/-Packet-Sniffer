@@ -30,7 +30,7 @@ pip install scapy colorama tabulate rich psutil pyfiglet
 
 ### **2️⃣ Clone the Repository**
 ```sh
-sudo git clone https://github.com/Ajay-Bommidi/PRODIGY_CS_05.git
+sudo git clone https://github.com/Ajay-Bommidi/-Packet-Sniffer.git
 ```
 ```sh
 pip install -r requirements.txt
