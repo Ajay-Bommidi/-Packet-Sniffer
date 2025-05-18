@@ -83,4 +83,4 @@ Licensed under the **MIT License**. See `LICENSE` for details.
 
 ---
 
-### 🎯 Developed by **[Ajay BOmmidi]** 👨‍💻
+### 🎯 Developed by **[Ajay Bommidi]** 👨‍💻
