@@ -18,6 +18,11 @@ An advanced, user-friendly **Network Packet Sniffer** built with **Python**. Thi
 ---
 
 ## 📂 Installation
+```sh
+sudo python3 -m venv myenv
+source myenv/bin/activate
+```
+
 ### **1️⃣ Install Dependencies**
 ```sh
 pip install scapy colorama tabulate rich psutil pyfiglet
@@ -25,9 +30,11 @@ pip install scapy colorama tabulate rich psutil pyfiglet
 
 ### **2️⃣ Clone the Repository**
 ```sh
-https://github.com/Ajay-Bommidi/PRODIGY_CS_05.git
+sudo git clone https://github.com/Ajay-Bommidi/PRODIGY_CS_05.git
 ```
-
+```sh
+pip install -r requirements.txt
+```
 ### **3️⃣ Run the Sniffer**
 ```sh
 python network-sniffer.py
